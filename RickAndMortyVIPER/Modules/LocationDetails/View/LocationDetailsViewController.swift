@@ -1,13 +1,13 @@
 //
-//  EpisodeDetailsViewController.swift
+//  LocationDetailsViewController.swift
 //  RickAndMortyVIPER
 //
-//  Created by samet on 20.03.2025.
+//  Created by samet on 25.03.2025.
 //
 
 import UIKit
 
-class EpisodeDetailsViewController: UIViewController {
+class LocationDetailsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
